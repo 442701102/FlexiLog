@@ -1,7 +1,3 @@
-Certainly! Below is a detailed `README.md` for your C++ logging library, **FlexiLog**. This README includes sections that cover the library's purpose, features, installation instructions, usage examples, API overview, contribution guidelines, and licensing information.
-
----
-
 # FlexiLog
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
